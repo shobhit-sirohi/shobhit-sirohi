@@ -1,8 +1,5 @@
 ## Hello 👋
 
-![giphy](https://user-images.githubusercontent.com/21247694/135476085-440227a2-606a-41ed-b1a8-510e2fbd237c.gif)
-
-
 ## Gib joB pls
 
 ![source](https://user-images.githubusercontent.com/21247694/135475106-75578244-6ed1-487d-904e-f05250f1d33b.gif)
