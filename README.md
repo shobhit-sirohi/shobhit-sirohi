@@ -1,4 +1,3 @@
-## Hello 👋
 ![dance](https://user-images.githubusercontent.com/21247694/136963495-96c48543-e7a7-44a2-b2a3-0e97ec554f86.gif)
 
 
