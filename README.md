@@ -1,3 +1,2 @@
 ### Hello World 👋🏻
-
-![dance](https://user-images.githubusercontent.com/21247694/143663168-6032fe94-867b-42ce-a629-682ff38de836.gif)
+![hello](https://user-images.githubusercontent.com/21247694/143663186-71504992-daa0-42d9-9e5c-2cc92f36b1ca.gif)
