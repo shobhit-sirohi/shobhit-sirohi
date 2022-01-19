@@ -1,3 +1,2 @@
 # Hello World 👋🏻
-![hello](![image](https://user-images.githubusercontent.com/21247694/150221476-5679a72d-7847-4951-bb56-20ef9748b563.png)
-)
+![hi](https://user-images.githubusercontent.com/21247694/150221582-5a25a3cc-8cf3-4d99-b0e4-d625c16a652d.gif)
