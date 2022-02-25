@@ -2,4 +2,4 @@
 
 # Hello :wave:
 
-<img src="https://wakatime.com/share/@bd064375-0f69-49f0-82b8-37a787092fc2/ce2fa884-cca2-4a12-a272-482aa809620a.svg"/>
+<img src="https://wakatime.com/share/@bd064375-0f69-49f0-82b8-37a787092fc2/ce2fa884-cca2-4a12-a272-482aa809620a.svg" width="400"/>
