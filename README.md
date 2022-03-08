@@ -12,3 +12,5 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+#### It's new bro wait for a week 😤
