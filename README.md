@@ -3,10 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 4 mins    ███████████████▒░░░░░░░░░   61.56 %
-Markdown     1 hr 11 mins    █████████░░░░░░░░░░░░░░░░   35.60 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+JavaScript   1 hr 31 mins    ██████████████░░░░░░░░░░░   55.41 %
+Markdown     1 hr 11 mins    ██████████▓░░░░░░░░░░░░░░   43.27 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
