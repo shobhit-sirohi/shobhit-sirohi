@@ -3,9 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   12 mins         ████████████████████████▓   98.34 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+JavaScript   1 min           ████████████████████▓░░░░   82.04 %
+HTML         0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
 ```
 
 <!--END_SECTION:waka-->
