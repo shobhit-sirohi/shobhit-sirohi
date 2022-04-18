@@ -10,5 +10,3 @@ XML          6 mins          █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-#### It's new bro wait for a week 😤
