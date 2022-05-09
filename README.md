@@ -1,4 +1,4 @@
-#### Workflow over the past 7 days
+#### Workflow over the past week
 
 <!--START_SECTION:waka-->
 
