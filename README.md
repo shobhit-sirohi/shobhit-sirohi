@@ -1,4 +1,4 @@
-<!-- #### Workflow over the past week
+#### Workflow over the past 7 Days
 
 <!--START_SECTION:waka-->
 
@@ -10,4 +10,4 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
- -->
+
