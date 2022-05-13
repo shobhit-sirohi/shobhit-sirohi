@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shobhit Sirohi</h1>
-<h3 align="center">A passionate Front-End developer from Meerut, India.</h3>
+<h3 align="center">A Front-End developer from Meerut, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit-sirohi&label=Profile%20views&color=0e75b6&style=flat" alt="shobhit-sirohi" /> </p>
 
-- 🔭 I’m currently working on [Rock Paper Scissors Game](https://github.com/shobhit-sirohi/Rock-Paper-Scissors)
-
-- 🌱 I’m currently learning **Full Stack Development**
+- 🔭 Currently Building [Rock Paper Scissors Game](https://github.com/shobhit-sirohi/Rock-Paper-Scissors)
 
 - 👨‍💻 All of my projects are available at [shobhitsirohi.com](shobhitsirohi.com)
 
-- 💬 Ask me about **TailwindCSS**
-
-- 📫 How to reach me **shobhitsirohi.dev@gmail.com**
+- 📫 Reach me @ **shobhitsirohi.dev@gmail.com**
 
 - 📄 See my Resume at [https://drive.google.com/file/d/1OsfYV0TzUtBOk5NXxmYmCCNWYjGYreKn/view?usp=sharing](https://drive.google.com/file/d/1OsfYV0TzUtBOk5NXxmYmCCNWYjGYreKn/view?usp=sharing)
 
