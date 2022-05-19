@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit-sirohi&label=Profile%20views&color=F44336&style=flat" alt="shobhit-sirohi" /> </p>
 
-- 🔭 Currently Building [Card Game](https://github.com/shobhit-sirohi/card-game)
+- 🔭 Currently working on [CodeWars](https://github.com/shobhit-sirohi/CodeWars)
 
-- 👨‍💻 All of my projects are available at [shobhitsirohi.com](shobhitsirohi.com)
+- 👨‍💻 All of my projects are available at [shobhitsirohi.com](https://shobhitsirohi.com)
 
 - 📫 Reach me @ **shobhitsirohi.dev@gmail.com**
 
-- 📄 My Resume [https://bit.ly/3a5gZyB](https://bit.ly/3a5gZyB)
+- 📄 My Resume [Resume.me](https://bit.ly/3a5gZyB)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
