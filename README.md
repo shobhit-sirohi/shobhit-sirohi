@@ -9,7 +9,7 @@
 
 - 📫 Reach me @ **shobhitsirohi.dev@gmail.com**
 
-- 📄 My Resume [Resume.me](https://bit.ly/3a5gZyB)
+- 📄 My [Resume](https://bit.ly/3a5gZyB)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
