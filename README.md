@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shobhit Sirohi</h1>
-<h3 align="center">A Front-End developer from Meerut, India.</h3>
+<h3 align="center">A Front-End developer from Bengaluru, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit-sirohi&label=Profile%20views&color=F44336&style=flat" alt="shobhit-sirohi" /> </p>
 
