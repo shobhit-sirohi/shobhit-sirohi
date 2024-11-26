@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shobhit Sirohi</h1>
-<h3 align="center">A Front-End developer from Bengaluru, India.</h3>
+<h1 align="center">Sup</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit-sirohi&label=Profile%20views&color=F44336&style=flat" alt="shobhit-sirohi" /> </p>
 
 - 🔭 Currently working on [CodeWars](https://github.com/shobhit-sirohi/CodeWars)
-
-- 👨‍💻 All of my projects are available at [shobhitsirohi.com](https://shobhitsirohi.com)
 
 - 📫 Reach me @ **shobhitsirohi.dev@gmail.com**
 
