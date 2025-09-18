@@ -4,7 +4,7 @@
 
 - 📫 Reach me @ **shobhitsirohi.dev@gmail.com**
 
-- 📄 My [Resume]([https://shobhit.dev/resume])
+- 📄 My Resume: https://shobhit.dev/resume
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
